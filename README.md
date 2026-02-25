@@ -1,9 +1,8 @@
-# ## Hi there, I'm Nhan Huynh Thien 👋 
+#  Hi there, I'm Nhan Huynh Thien 👋 
 ---
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://bsky.app/profile/NhanHuynhThien" target="_blank"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky" /></a>
 <a href="https://facebook.com/thiennhan.huynh.108" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook" /></a>
 <a href="https://linkedin.com/in/nhanhuynhthien/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
 <a href="mailto:nhanhuynh7115@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
