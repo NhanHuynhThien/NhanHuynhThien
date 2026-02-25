@@ -27,7 +27,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
----
 <p align="center">
   <i>"Writing code that humans can understand."</i>
 </p>
