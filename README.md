@@ -1,9 +1,4 @@
 # ## Hi there, I'm Nhan Huynh Thien 👋 
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NhanHuynhThien&icon=0&color=0" alt="Views" />
-</div>
-
 ---
 
 ## 🌐 Socials:
